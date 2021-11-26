@@ -4,7 +4,7 @@ Söz oyunu. 7000-dən çox söz ilə
 # Qurulum
 
 # Heroku
-əlavə olunacaq
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/HusuSovetski/OyunBotTest)
 
 
 # Server
